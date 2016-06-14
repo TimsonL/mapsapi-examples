@@ -34,7 +34,7 @@ function init() {
         }
     }, {
         //Вставляем изображение в многоугольник.
-        fillImageHref: 'polygon_image/image',
+        fillImageHref: 'image/0-0.jpeg',
         //Разрешаем изображение под многоугольник.
         fillMethod: 'stretch'
     });
